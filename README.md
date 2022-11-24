@@ -1,5 +1,5 @@
 # DataScience_test_projects
-Here are simple data science projects
+Here are data science projects
 
 ## Excel-statistical-hypothesis
 
@@ -15,3 +15,11 @@ The aim of the task is to check the hypothesis that MEAN(STD(hypothesis price - 
 3.  T-criterion is ABS(MEAN(hypothesis)-MEAN(actual))/SQRT(STD(actual)*STD(actual)/(N-1))
 4.  Probability is StudentDistribution(T-criterion,N-1,2)
 5.  Probability equals 0.27. So the hypothesis is true with 27% of probability. 0.27 is less than 0.95 so the hypothesis is rejected
+
+## Spark
+
+Examples of working with pyspark.
+
+## project_animal_shelter
+
+Predict if the animal will be adopted from Austin animal shelter
